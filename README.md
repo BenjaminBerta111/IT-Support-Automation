@@ -17,6 +17,9 @@ A system maintenance script designed for quick PC optimization. It automatically
 ## powerflipper.bat
 A configuration script that instantly toggles the Windows power scheme between Balanced (Recommended) and High Performance modes, bypassing manual Control Panel navigation.
 
+## QuickTab
+A background productivity script that binds a global shortcut (`Ctrl + Space`) to instantly launch a new Firefox browser tab, bypassing manual desktop navigation.
+
 ## How to use
 
 To use any of these, either right click the program or run it in command prompt, if they dont work, simply run the command prompt as administrator.
