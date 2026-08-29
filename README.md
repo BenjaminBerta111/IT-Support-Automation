@@ -1,7 +1,5 @@
 # IT-Support-Automation
 
-# IT-Support-Automation
-
 A collection of lightweight automation scripts and utilities designed to streamline system maintenance, manage inputs, and handle data extraction.
 
 ## RightClickDisable
